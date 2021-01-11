@@ -25,6 +25,8 @@ List some learning materials to help you step into the world of njs. Thanks to t
 - [Docker v2 Registry](https://github.com/psvmcc/static_docker_v2_registry) by [@Skitsanos](https://github.com/skitsanos)
 - [Babel Preset](https://github.com/jirutka/babel-preset-njs) by [@Jakub Jirutka](https://github.com/jirutka)
 - [OpenResty with NJS](https://github.com/skitsanos/openresty-njs) by [@Skitsanos](https://github.com/skitsanos)
+- [UML Diagram Renderer](https://github.com/soulteary/docker-nomnoml)
+    - Docker Nomnoml is a simple but elegant self-hosted UML Generator & UML Sharing solution. This Project use NJS to provide server-side generation function.
 
 ## Docker Image
 
@@ -32,6 +34,7 @@ List some learning materials to help you step into the world of njs. Thanks to t
     - Registry: https://hub.docker.com/_/nginx
 - [soulteary/docker-njs](https://github.com/soulteary/docker-njs) Maintained by soulteary, minimal image containing only njs executable files for development and debugging.
     - Registry: https://hub.docker.com/r/soulteary/docker-njs
+    - HowTo: https://soulteary.com/2021/01/10/let-us-start-with-the-mirroring-of-the-nginx-njs-tool-package.html
 
 ## Alternative
 
