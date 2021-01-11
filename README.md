@@ -27,6 +27,7 @@ List some learning materials to help you step into the world of njs. Thanks to t
 - [OpenResty with NJS](https://github.com/skitsanos/openresty-njs) by [@Skitsanos](https://github.com/skitsanos)
 - [UML Diagram Renderer](https://github.com/soulteary/docker-nomnoml)
     - Docker Nomnoml is a simple but elegant self-hosted UML Generator & UML Sharing solution. This Project use NJS to provide server-side generation function.
+    - NJS compatible: 0.5.0+
 
 ## Docker Image
 
