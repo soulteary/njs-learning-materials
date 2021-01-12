@@ -11,6 +11,7 @@ List some learning materials to help you step into the world of njs. Thanks to t
 
 - [xeioex/njs-examples](https://github.com/xeioex/njs-examples) Maintained by nginx,inc engineer [@Dmitry Volyntsev](https://github.com/xeioex), contains examples from official documentation. Project started at [24 Sep 2018](https://github.com/xeioex/njs-examples/commit/be03b8245fc5e6e6e8bdfabd50e1d733a87c23e2).
 - [zongzw-nginx/nginx-njs-usecases](https://github.com/zongzw-nginx/nginx-njs-usecases) Maintained by F5,inc engineer [@zongzw](https://github.com/zongzw), use `docker` and `docker-compose` to demonstrate some usage scenarios of njs.Project started at [Mar 9, 2020](https://github.com/zongzw-nginx/nginx-njs-usecases/commits/master/LICENSE).
+- [nginxinc/nginx-s3-gateway](https://github.com/nginxinc/nginx-s3-gateway) Maintained by nginx,inc engineer [@Elijah Zupancic](https://github.com/dekobon), illustrates setting up a S3 Gateway using njs and creating njs unit tests.
 
 ## Project
 
