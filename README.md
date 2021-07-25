@@ -15,6 +15,7 @@ List some learning materials to help you step into the world of njs. Thanks to t
 
 ## Project
 
+- [Nginx DNS](https://github.com/TuxInvader/nginx-dns) by [@TuxInvader](https://github.com/TuxInvader)
 - [LDAP Auth](https://github.com/floffel/nla) by [@floffel](https://github.com/floffel)
 - [S3 Proxy](https://github.com/dedok/nginx-s3) by [@Vasiliy Soshnikov](https://github.com/dedok)
 - [JWT](https://github.com/lombax85/nginx-jwt) by [@lombax85](https://github.com/lombax85)
