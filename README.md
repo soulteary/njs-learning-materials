@@ -31,6 +31,7 @@ List some learning materials to help you step into the world of njs. Thanks to t
 - [UML Diagram Renderer](https://github.com/soulteary/docker-nomnoml)
     - Docker Nomnoml is a simple but elegant self-hosted UML Generator & UML Sharing solution. This Project use NJS to provide server-side generation function.
     - NJS compatible: 0.5.0+
+- [JSONRPC gateway](https://github.com/sah4ez/nginx-rpc-gateway) by [@sah4ez](https://github.com/sah4ez)
 
 ## Docker Image
 
