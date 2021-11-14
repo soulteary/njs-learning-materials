@@ -15,6 +15,7 @@ List some learning materials to help you step into the world of njs. Thanks to t
 
 ## Project
 
+- [Nginx RSA Encryption](https://github.com/soulteary/nginx-rsa-encryption) by [@soulteary](https://github.com/soulteary)
 - [Nginx DNS](https://github.com/TuxInvader/nginx-dns) by [@TuxInvader](https://github.com/TuxInvader)
 - [Nginx DDNS](https://github.com/soulteary/njs-ddns-service) by [@soulteary](https://github.com/soulteary)
 - [LDAP Auth](https://github.com/floffel/nla) by [@floffel](https://github.com/floffel)
